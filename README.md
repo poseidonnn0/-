@@ -6,6 +6,10 @@
 
 02/11/23 - https://youtu.be/yX_6EJ1CJ4Y
 
+### :hammer: ООП - практика:
+
+02/11/23 - https://youtu.be/Dp9sMMrr2aQ
+
 ### :pencil2: Теория вероятности и математическая статистика - лекции:
 
 20/10/23 - https://youtu.be/8vgAm4JECZ4
@@ -15,6 +19,10 @@
 03/11/23 - https://youtu.be/l5TLWQuGSbk
 
 10/11/23 - https://youtu.be/Jxr2T2_qcck
+
+### :wrench: Лабораторные работы по Java:
+
+https://github.com/alexdanilin7/JavaLabs3cours/tree/master
 
 ---
 
