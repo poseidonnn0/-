@@ -12,6 +12,8 @@
 
 02/11/23 - https://youtu.be/Dp9sMMrr2aQ
 
+16/11/23 - https://youtu.be/ut1NTUazBP8
+
 ### :pencil2: Теория вероятности и математическая статистика - лекции:
 
 20/10/23 - https://youtu.be/8vgAm4JECZ4
