@@ -6,6 +6,8 @@
 
 02/11/23 - https://youtu.be/yX_6EJ1CJ4Y
 
+16/11/23 - https://youtu.be/rcnZsmM5Xu0
+
 ### :hammer: ООП - практика:
 
 02/11/23 - https://youtu.be/Dp9sMMrr2aQ
