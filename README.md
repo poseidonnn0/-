@@ -33,6 +33,10 @@
 
 https://github.com/alexdanilin7/JavaLabs3cours/tree/master
 
+### Java - лекции:
+
+27/11/23 - https://youtu.be/0wgy0NyqV7w + условие экзамена
+
 ---
 
 
