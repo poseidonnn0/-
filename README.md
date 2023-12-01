@@ -28,6 +28,7 @@
 
 24/11/23 - https://youtu.be/37KfUsTmMGQ
 
+01/12/23 - https://youtu.be/cS4zh4FdCa8
 
 ### :wrench: Лабораторные работы по Java:
 
