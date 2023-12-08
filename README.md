@@ -30,6 +30,8 @@
 
 01/12/23 - https://youtu.be/cS4zh4FdCa8
 
+08/12/23 - https://youtu.be/4ILuKC47iIc
+
 ### :wrench: Лабораторные работы по Java:
 
 https://github.com/alexdanilin7/JavaLabs3cours/tree/master
