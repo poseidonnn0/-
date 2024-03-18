@@ -42,6 +42,7 @@
 
 11/03/24 - https://youtu.be/uAoFVn8CgU0
 
+18/03/24 - https://youtu.be/l8oejcXO02s
 ### :wrench: Лабораторные работы по Java:
 
 https://github.com/alexdanilin7/JavaLabs3cours/tree/master
